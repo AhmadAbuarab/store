@@ -1,3 +1,5 @@
 ### Online store
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
+- Go to app/config/config.php and set database credentials
+
+`$ npm install marked`
