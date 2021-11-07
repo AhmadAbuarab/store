@@ -1,4 +1,3 @@
-# store
+### Online store
 
-#git pull
-#set database credentials in store/app/config/config.php 
+- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
